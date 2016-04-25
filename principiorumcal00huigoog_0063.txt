@@ -1,0 +1,51 @@
+2!
+siat (uti 3⁰.) terminus, cujus codfficiens L major summa omnium ter.
+
+· minorum sequentium. Tum per construttionem hujus theorematis fiat primus
+terminus major summa omnium terminorum usque ad terminum, cujus coe'ffi· ι
+ciens 1. Erit, a fortiori, primus terminus major sununa omnium terminorum
+sequentium. ¹ .
+
+Quod attinet ad casus, quibus coafficientes non sunt 'omnes positivi, aut ·
+’ quibus alterne crescrmt & decrescunt juxta legem datam, &quod ad incrementa
+'suorum attinet, modo conditionibus praecedentibus consentaneo: conclusiones ,
+iilis casrbus asortiori nesiuntur.
+Ceteris vero casibus, quibus coessrcientes ultra omnem limitem crescentes alii
+quam legum incrementi praecedentium sequi non constat: hattenus dubito, theo·
+rema posse seriebus, quarum numerus terminorum est indeterminatus, applicari.
+
+b· 17· Ut neceffitas praecedentium distinstionum luculentius pateat, ex-
+emplum evolvam, quod in sequentibus niagni erit momenti.
+
+Exemplum Sit xe potentia quaecunque quantitatis variabilis x, quae, mua
+
+tatdxinxssdam fit
+
+xo ‡„n-1Ax42,'ll.¹.xn·2nx2‡{'.. . . Uxii-rw -Ι- ἶ. . ..ἶῖἕκῠὶωϋ ss .....
+
+12 314
+
+Proinde potentia xe, mutata x in x ss dx, accipit mutationem,
+
+‡(nxo·mx‡1¹„‚'fflx¹¹·2dx²†2 · · ο ’ΞΖ-ΜΝ ὲ-’ἶη ·⁹-'-'-³-x¹¹·tdx⁴·s· ····· )
+
+2 1 1
+iam vero ponatur1 , mutationem dx posse3 sieri minorem quodcunque quantitate
+
+proposita: dico, mutationem srmui fastam potentiae an etiam quacunque quan-
+titate proposita fieri posse minorem. Ι
+
+1⁰. Sit n numems integer positivus. Prior series abrumpitur, &proinde
+assertum verum est per §. 16.
+2'0. Sit o numerus positivus nonainteger major' unitate. Series praecedens
+’ non abrumpitur quidem, sed facile demonstratur: coefficientes terminorum, in ’
+quibus exponens mutationis dx srt major quam ηψπ] continue decrescere.
+Etenim iit m numerus integer positivus immpdiate minor quamn -Ι- r·
+n n 1 n· m
+
+Cqsfficiens termini ww, erit—f· -ἷῑ ...ὀ-Ξ), Coefficiens alius
+
+D 2 Γ cujus⁴
+
+ 
+

@@ -1,0 +1,47 @@
+’ 33
+Corollariior r. Sit progreffio geometrica crescens: differentia duomm ter·
+minorum contiguorum crescit inde a urinimu usqne ad maximum.
+
+· corollarium 3. Sint duae progreffiones crescentes, una geometrica, altera
+aritlnnetica‚ quae duos primos terminos habeant communes, ὅτ quarum termi.
+norum numerus idem sit: reliqui termini progreiironis geometricae majores sunt
+terminis progrelhonis arithmeticae aeque ab extremis distantibus. Idem asor.
+tiori valet, fi terminus secundus progreliionis geometricae major ht termino se·
+cundo progrelironis arithmeticae.
+
+corollarium 4. Sint duae progroffioncs crescentem una geometrica, altera
+arithmetica, quae duos terminos extremos (he. primum δι ultimum )’ com.
+munes habent, δι quorum numerus terminorum idem srt. Reliqui termini
+
+progreffionis geometricae minores lunt terminis progreliionis arithmeticae aeque
+· ab extremis distantibus.
+Theonino Datis duobus tenninis extremis progreliionis geometricae, nu·
+
+merus terminorum ita potest augeri, ut! minoris terminorum datorum & ter.
+
+mini huic proximi differentia minor srt qualibet quantitate data (hoc termino
+
+dato minore). .
+
+1‘ Sint Ρ & Q duo termini dati, quorum P minor 3 &sita quantitas data.
+Sumatur differentia Q-l’ terminorum Q δι Ρ.’ ¹Repetatur quantitas data a
+toties, ut superet differentiam q-P5 srt r numerus vicium, quibus repetita fuit.
+Dividamr differentia Q-l‘ in ri partes aequales. Tum inter terminos datos
+P iic Q inserantur o termini continue geometrice proportionales. Dico samon.
+
+Etenim inter duos terminos P iit Qinserantur totidem terminio continue
+
+“ arithmetice proportionales: snt p δι ρ’ termini ipsu Pproximi. in progreffione
+
+geometrica δι arithmetica.
+
+Erit (per Coroll. 4. praec.) p < p'; lit ideo p·- P < p'-P. Atqui (per
+construtiionem) p'-P<a; ergo afortiori p-P<o.
+Coroloriom 1. Terminus itaque datus Plimes est quantitatis mutabilis μς
+proinde ratio aequalitatis etiam limes eli rationis crescentis Pap (§. 3.)
+Corollarium 2. Sit q terminus, qui terminum Q immediate praecedit· Quo·
+mam P:p = q 2Q, ratio aequalitatis etiam limes est rationis crescentis q : Q,
+Β seu
+
+ 
+

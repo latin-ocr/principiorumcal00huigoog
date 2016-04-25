@@ -1,0 +1,47 @@
+271
+
+Exempla haec ostendunt, methodum posteriorem (quatenus quantitatum, ¹
+
+ι quae Qu} reddi debent, evolutionem non requirit) priore methodo gene·¹
+
+rali polie effe faciliorem ac breviorem ·
+
+§185 In exemplis praecedentibus relatio finita inter quantitates mco- Ι
+gnitas ita fuit post differentiatioo'em determinata, ut ipiae quantitates ancognitae
+(quoad imperfetta aequationum doetrina permittit) pulsent affignari. Transeo
+
+ad exempla, quibus quaestio propofita mdetermrnata elie videtur, quomam quan s .
+
+‚titatum incognitarum numerus videtur aequatlonum numerum superarezcum
+tamen quaestio proposita reapse ιιι determinata, ιι natura ejus attentius perpen
+datur Hoc quaestionum genus ιι facilius intelligatur, nonnulla proponam
+exempla, asrmplicioribus ordiendo. , ,
+
+· Exemplum primm Summa propofitaa dividenda ιιι 1n tres partes, fic ut χ
+summa quadratorum ex iisdem fastorum ιιι omnium minima.
+
+Hoc casu tres occurrunt quantitates incognitam ιι tamen prima ιιοιιιε don
+
+tantum proponi conditiones videntur, quarum una ad summam datam trium
+partium refertur, altera ad summam omnium minimam quadratorum earundem.
+Quare problema proposrtum potest videri indeterminatum: quod tamen, ,ιε ac.
+curatius perpensa, reapse est determinatum. Etenim, parte qualibeteadem ma· ,
+
+nente, duae reliquae partes debent effeinvicem aequales, ut quadratorum summa
+(pofita unius partis constantia) ιιι omnium minima. ‘Proinde partes propofitae
+binae iumtae debent effe invicem aequales ,unde tres partes dehent elle 'invicem ’
+aequales. Ratiocioium hoc applicatur ad numerum quemcunque partium, ιιιΙ
+, quas summa data est dividenda, ut partium quadratorum summa fit omnium·
+ιιιιιιιιιιι.Τιιιιιιο ad computum.- Ο ,
+
+Sirssummadata3&s1ntx,y,aportesquafitaa
+
+, Eritideo x†p÷a S
+
+ἰιι ι- ty -ι- aa: minimo· Sit ι quantitas quaedam mutatio, cujus ἡ
+mutationes pro constantibus sumantur. · .
+
+Erit
+
+ 
+
